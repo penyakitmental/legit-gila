@@ -8,7 +8,7 @@ function showFuckOff() {
         return;
     }
 
-    output.innerHTML = `${name.toUpperCase()}, FUCK OFF!`;
+    output.innerHTML = `FUCK OFF ${name.toUpperCase()}`;
     output.style.display = "block";
 
     // Play bass-boosted "GET OUT" sound
